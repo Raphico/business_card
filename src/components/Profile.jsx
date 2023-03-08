@@ -1,7 +1,7 @@
 function Profile() {
   return (
     <div className="container--profile-img">
-      <img src="/profile.svg" alt="A picture of Laura Smith" />
+      <img src="/profile.png" alt="A picture of Laura Smith" />
     </div>
   )
 }
